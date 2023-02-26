@@ -1,4 +1,4 @@
-public class CartePovestiri {
+public class CartePovestiri extends Carte {
     private int numarPovestiri;
 
     public CartePovestiri(String nume, String autor, int numarPovestiri) {

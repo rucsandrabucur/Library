@@ -1,5 +1,5 @@
-public class CarteRoman {
-    rivate String tipRoman;
+public class CarteRoman extends Carte {
+    private String tipRoman;
 
     public CarteRoman(String nume, String autor, String tipRoman){
         super(nume, autor);
