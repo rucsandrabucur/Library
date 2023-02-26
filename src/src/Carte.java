@@ -1,4 +1,4 @@
-public class Carte {
+public abstract class Carte {
     private String nume;
     private String autor;
     private int lunaReturnare;
